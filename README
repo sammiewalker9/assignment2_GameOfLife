@@ -1,0 +1,26 @@
+Samantha Walker
+2315055
+swalker@chapman.edu
+
+Eric Wasserman
+2300841
+ewasserman@chapman
+
+CPSC350
+Game of Life
+
+Source Files:
+  1. GameBoard.cpp
+  2. GoLMain.cpp
+  3. GameOfLife.h
+  4. Classic.cpp
+  5. Doughnut.cpp
+  6. Mirror.cpp
+  7. GameOfLife.cpp
+
+References:
+  1. Populating 2D array - https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/
+  2. Populating 2D array - http://www.cplusplus.com/forum/general/199358/
+  3. Array copying - http://www.cplusplus.com/reference/algorithm/copy/
+  4. Array copying - https://stackoverflow.com/questions/36217488/copy-two-dimensional-array-elements-to-another-two-dimensional-array-with-anothe/36217789
+  5. Pointers - https://www.geeksforgeeks.org/double-pointer-pointer-pointer-c/
